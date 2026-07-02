@@ -1,4 +1,5 @@
 # Task: discount-calculator
 
 ## Description
-Complete the implementation for discount-calculator.
+Complete the implementation for discount-calculator
+

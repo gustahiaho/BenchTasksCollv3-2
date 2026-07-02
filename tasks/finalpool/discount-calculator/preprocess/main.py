@@ -1,2 +1,2 @@
-# preprocess for discount-calculator
-print('preprocess')
+# Preprocessing script
+print('Preprocessing completed')
