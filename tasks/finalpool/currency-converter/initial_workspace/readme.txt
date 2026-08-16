@@ -1,0 +1,2 @@
+Initial workspace for currency-converter
+
